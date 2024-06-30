@@ -4,30 +4,29 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Anirban</h1></summary>
-    <h4>Grad Student @Northeastern University, Boston, MA | Full Stack Software Engineer | ex-SDE Intern @Dassault Systèmes (USA) | ex-SDE Full Time @Cleartrail Technologies, Impetus | C++ | Java | Python | NodeJS | ReactJS| AWS | GCP | DevOps | Docker | Kubernetes | CI/CD </h4>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ekam</h1></summary>
+    <h4>Grad Student @Northeastern University, Boston, MA | Full Stack Software Engineer | ex-SDE @Amazon | ex-SDE @Oriserve | C++ | Java | JavaScript | Python | NodeJS | ReactJS| SQL | MongoDB | Docker </h4>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Transforming Ideas into Reliable Solutions</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate software developer turning complex problems into elegant, efficient solutions with cutting-edge technology and creative thinking.</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 
-- I'm a highly skilled software developer with around three years of experience, deeply proficient in C++, Java, and Python. My background also includes extensive expertise in DevOps, cloud technologies, and database management.
-
-- With a strong commitment to delivering high-quality work on time, I have led transformative projects and crafted innovative solutions in fast-paced, startup-like environments.
+- I'm a highly skilled software developer with around three years of experience, deeply proficient in C++, Java, and JavaScript. My background includes tech stack in both backend and frontend development.
+- Driven by a relentless commitment to excellence and timely delivery, I have spearheaded transformative projects and developed innovative solutions in dynamic, startup-like settings, consistently exceeding expectations and setting new benchmarks for success.
 - Whether it's designing, implementing, or managing complex back-end software solutions, I thrive in dynamic settings where handling risks and delivering robust results are paramount.
 
-- I'm currently working on an exciting project: building my own version of **Git**!
+- I'm currently learning about : **Docker \& System Designs**!
 
-- 💬 Ask me about **C++, Java, NodeJS, System Design, Low Level Design, DevOps, GCP, AWS**
+- 💬 Ask me about **C++, Java, NodeJS, Leetcode, System Design**
 
-- 📫 Feel free to reach me out **anirbandutta1098@gmail.com**
+- 📫 Feel free to reach me out **chahal.e@northeastern.edu**
 
 <!--Intro end-->
 
@@ -40,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,css,html,docker,postgres,mysql,redis,mongodb,hibernate,express,github,js,linux,nextjs,nodejs,spring,postman,react,redux,ts,vscode,aws,gcp,kubernetes,terraform,rabbitmq&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,javascript,python,typescript,html,css,spring,nodejs,npm,react,redux,express,postman,docker,git,github,linux,idea,vscode,elasticsearch,hibernate,mysql,mongodb,redis&perline=14" />
   </a>
 </p>
 
@@ -54,8 +53,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/anirbandutta7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/_anirban7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ekam-singh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/ekam.singh.chahal/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
 
 <!--profile visit count-->
