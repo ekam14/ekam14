@@ -5,20 +5,20 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Ekam</h1></summary>
-    <h4>Grad Student @Northeastern University, Boston, MA | Full Stack Software Engineer | ex-SDE @Amazon | ex-SDE @Oriserve | C++ | Java | JavaScript | Python | NodeJS | ReactJS| SQL | MongoDB | Docker </h4>
+    <h4>Computer Science Graduate @Northeastern University, Boston, MA | Full Stack Software Engineer | ex-SDE @Amazon | ex-SDE @Oriserve | C++ | Java | JavaScript | Python | NodeJS | ReactJS| SQL | MongoDB | Docker </h4>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate software developer turning complex problems into elegant, efficient solutions with cutting-edge technology and creative thinking.</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate software developer turning complex problems into elegant, efficient solutions with creative thinking.</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 
-- I'm a highly skilled software developer with around three years of experience, deeply proficient in C++, Java, and JavaScript. My background includes tech stack in both backend and frontend development.
+- I'm a highly skilled software developer with around three years of experience, deeply proficient in C++, Java, and JavaScript. My background includes working both in backend and frontend development.
 - Driven by a relentless commitment to excellence and timely delivery, I have spearheaded transformative projects and developed innovative solutions in dynamic, startup-like settings, consistently exceeding expectations and setting new benchmarks for success.
 - Whether it's designing, implementing, or managing complex back-end software solutions, I thrive in dynamic settings where handling risks and delivering robust results are paramount.
 
@@ -59,7 +59,7 @@
 
 <!--profile visit count-->
 <div align="center"> <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adneu98&label=Profile%20views&color=0e75b6&style=flat" alt="adneu98" /> </p>
+<p align="center"> <img src="![](https://komarev.com/ghpvc/?username=ekam14&label=Profile%20views&color=blueviolet&style=flat" alt="ekam14" /> </p>
 </div>
 
 <!--horizontal divider(gradiant)-->
