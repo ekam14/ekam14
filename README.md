@@ -59,7 +59,7 @@
 
 <!--profile visit count-->
 <div align="center"> <br>
-<p align="center"> <img src="![](https://komarev.com/ghpvc/?username=ekam14&label=Profile%20views&color=blueviolet&style=flat" alt="ekam14" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ekam14&label=Profile%20views&color=blueviolet&style=flat" alt="ekam14" /> </p>
 </div>
 
 <!--horizontal divider(gradiant)-->
